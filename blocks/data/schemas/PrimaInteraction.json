@@ -1,0 +1,22 @@
+{
+  "schemaName": "PrimaInteraction",
+  "collectionName": "PrimaInteractions",
+  "schemaType": 1,
+  "fields": [
+    {
+      "name": "customerId",
+      "type": "String",
+      "isArray": false
+    },
+    {
+      "name": "note",
+      "type": "String",
+      "isArray": false
+    },
+    {
+      "name": "occurredAt",
+      "type": "DateTime",
+      "isArray": false
+    }
+  ]
+}

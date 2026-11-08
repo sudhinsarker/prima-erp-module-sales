@@ -1,0 +1,14 @@
+{
+  "project": {
+    "tenantId": "D589e5e2d1a43417591f07696cbf19477",
+    "apiUrl": "https://blocksapi.slsblx.com",
+    "appDomain": "https://dzvijs-esbse.slsblx.com"
+  },
+  "data": {
+    "schemas": "blocks/data/schemas",
+    "rules": "blocks/data/rules.json"
+  },
+  "localization": {
+    "dictionaries": "blocks/localization"
+  }
+}

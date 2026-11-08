@@ -1,0 +1,22 @@
+{
+  "schemaName": "PrimaCustomer",
+  "collectionName": "PrimaCustomers",
+  "schemaType": 1,
+  "fields": [
+    {
+      "name": "name",
+      "type": "String",
+      "isArray": false
+    },
+    {
+      "name": "email",
+      "type": "String",
+      "isArray": false
+    },
+    {
+      "name": "company",
+      "type": "String",
+      "isArray": false
+    }
+  ]
+}

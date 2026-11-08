@@ -1,0 +1,37 @@
+{
+  "schemaName": "PrimaQuote",
+  "collectionName": "PrimaQuotes",
+  "schemaType": 1,
+  "fields": [
+    {
+      "name": "customerId",
+      "type": "String",
+      "isArray": false
+    },
+    {
+      "name": "customerName",
+      "type": "String",
+      "isArray": false
+    },
+    {
+      "name": "description",
+      "type": "String",
+      "isArray": false
+    },
+    {
+      "name": "amount",
+      "type": "Float",
+      "isArray": false
+    },
+    {
+      "name": "currency",
+      "type": "String",
+      "isArray": false
+    },
+    {
+      "name": "status",
+      "type": "String",
+      "isArray": false
+    }
+  ]
+}
